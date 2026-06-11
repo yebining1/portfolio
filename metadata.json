@@ -1,0 +1,6 @@
+{
+  "name": "YEBIN OS",
+  "description": "한림대학교 손예빈의 OS 테마 포트폴리오 웹사이트 (YEBIN OS v22.0)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
